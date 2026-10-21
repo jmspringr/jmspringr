@@ -26,8 +26,8 @@ jobs:
         run: python today.py
       - name: Commit
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Jacob Springer"
+          git config user.email "jakemspringer@gmail.com"
           git add dark_mode.svg light_mode.svg cache
           git commit -m "Update profile card" || echo "No changes"
           git push
