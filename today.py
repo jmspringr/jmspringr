@@ -27,13 +27,13 @@ TITLE = 'jacob@springer'
 BIRTHDAY = datetime.datetime(1998, 1, 12)
 
 INFO = [  # (key, value); None = blank spacer line
-    ('OS', 'macOS, iOS, Windows'),
+    ('OS', 'Windows, macOS'),
     ('Uptime', '{uptime}'),
     ('Host', 'PalmerHolland'),
     ('Kernel', 'Junior Application Developer'),
     ('IDE', 'Visual Studio, VS Code'),
     None,
-    ('Languages.Programming', 'C#, SQL, PHP, JavaScript'),
+    ('Languages.Programming', 'SQL, C#, Python, JavaScript'),
     ('Languages.Real', 'English'),
     ('Hobbies', 'PC Gaming, Reading'),
 ]
