@@ -11,30 +11,30 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="410px" fill="#f6f8fa" rx="15"/>
 <text xml:space="preserve" x="15" y="30" fill="#24292f">
-<tspan x="15" y="30"></tspan>
-<tspan x="15" y="50"></tspan>
-<tspan x="15" y="70"></tspan>
-<tspan x="15" y="90"></tspan>
-<tspan x="15" y="110"></tspan>
-<tspan x="15" y="130">         +***.    :=*####*+=.</tspan>
-<tspan x="15" y="150">         %@@@.   +@@%#***#%%:</tspan>
-<tspan x="15" y="170">         %@@%.  .@@@+      .</tspan>
-<tspan x="15" y="190">         %@@%.   #@@@#*+=-:</tspan>
-<tspan x="15" y="210">         %@@%.    -*#%@@@@@%=</tspan>
-<tspan x="15" y="230">         %@@%.        .:-#@@@:</tspan>
-<tspan x="15" y="250">         %@@%.  .*=:.   .#@@%.</tspan>
-<tspan x="15" y="270">         %@@%.  .%@@@%%%@@%#-</tspan>
-<tspan x="15" y="290">       .=%@@#     .:--==-:.</tspan>
-<tspan x="15" y="310">     .%@@@%*.</tspan>
-<tspan x="15" y="330">      ==-:.</tspan>
-<tspan x="15" y="350"></tspan>
-<tspan x="15" y="370"></tspan>
-<tspan x="15" y="390"></tspan>
+<tspan x="15" y="30">+++++******+--===-----=---------------</tspan>
+<tspan x="15" y="50">++***+++++==----=---------------:-==-:</tspan>
+<tspan x="15" y="70">+++*+====-::--------------------------</tspan>
+<tspan x="15" y="90">====--::---------:--------:::::-------</tspan>
+<tspan x="15" y="110">=::---------:::--=++=--::-:::--:::::-:</tspan>
+<tspan x="15" y="130">-=--======--:-+##%%%#*+-:::::::--:::-=</tspan>
+<tspan x="15" y="150">-**-=**+=*+++##+===++*+*=::::-==------</tspan>
+<tspan x="15" y="170">:+*--+*+++++++=:::::===+=--==-=====---</tspan>
+<tspan x="15" y="190">:+*=-++=++===*+=+=-=+**==--=---======-</tspan>
+<tspan x="15" y="210">.+*=-========*+-**==+#%*+-:::------==-</tspan>
+<tspan x="15" y="230">:+#+:-----===***##**####+==-:-::-----=</tspan>
+<tspan x="15" y="250">:+*+....:--==+++==+=**#*+++====-::----</tspan>
+<tspan x="15" y="270">.+**:.....::=-=*++*+++#@+=====+++=====</tspan>
+<tspan x="15" y="290">.=**-.::.:::-========++--===+=++++*++=</tspan>
+<tspan x="15" y="310">.=**-....-:::-:.----.  .-+#%#*+++==+==</tspan>
+<tspan x="15" y="330">.=*#=...:---::..      .-++=-::.:-==--:</tspan>
+<tspan x="15" y="350"> -++=:.:.::=:.....   .:-: .--=-::::-==</tspan>
+<tspan x="15" y="370"> -+*+:...:--:....    ::. .:---==+=::--</tspan>
+<tspan x="15" y="390"> -#*+-::-++*-..      ::. ...::--==+=::</tspan>
 </text>
 <text xml:space="preserve" x="395" y="30" fill="#24292f">
 <tspan x="395" y="30">jacob@springer -——————————————————————————————————————————</tspan>
 <tspan x="395" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">macOS, iOS, Windows</tspan></tspan>
-<tspan x="395" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">28 years, 9 months, 8 days</tspan></tspan>
+<tspan x="395" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">28 years, 9 months, 9 days</tspan></tspan>
 <tspan x="395" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">PalmerHolland</tspan></tspan>
 <tspan x="395" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Junior Application Developer</tspan></tspan>
 <tspan x="395" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Visual Studio, VS Code</tspan></tspan>
@@ -48,8 +48,8 @@ text, tspan {white-space: pre;}
 <tspan x="395" y="290"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">in/jakemspringer</tspan></tspan>
 <tspan x="395" y="310"></tspan>
 <tspan x="395" y="330">- GitHub Stats -——————————————————————————————————————————</tspan>
-<tspan x="395" y="350"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">0 {Contributed: 0}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="395" y="370"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="395" y="390"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">0</tspan> ( <tspan class="add">0++</tspan>, <tspan class="del">0--</tspan> )</tspan>
+<tspan x="395" y="350"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">6 {Contributed: 6}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="395" y="370"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">42</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="395" y="390"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">17,890</tspan> ( <tspan class="add">18,080++</tspan>, <tspan class="del">190--</tspan> )</tspan>
 </text>
 </svg>
