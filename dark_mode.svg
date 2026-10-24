@@ -34,7 +34,7 @@ text, tspan {white-space: pre;}
 <text xml:space="preserve" x="395" y="30" fill="#c9d1d9">
 <tspan x="395" y="30">jacob@springer -——————————————————————————————————————————</tspan>
 <tspan x="395" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Windows, macOS</tspan></tspan>
-<tspan x="395" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">28 years, 9 months, 11 days</tspan></tspan>
+<tspan x="395" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">28 years, 9 months, 12 days</tspan></tspan>
 <tspan x="395" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">PalmerHolland</tspan></tspan>
 <tspan x="395" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Junior Application Developer</tspan></tspan>
 <tspan x="395" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Visual Studio, VS Code</tspan></tspan>
@@ -49,7 +49,7 @@ text, tspan {white-space: pre;}
 <tspan x="395" y="310"></tspan>
 <tspan x="395" y="330">- GitHub Stats -——————————————————————————————————————————</tspan>
 <tspan x="395" y="350"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">7 {Contributed: 7}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="395" y="370"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">55</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="395" y="390"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">1,829,768</tspan> ( <tspan class="add">1,830,140++</tspan>, <tspan class="del">372--</tspan> )</tspan>
+<tspan x="395" y="370"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">57</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="395" y="390"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">1,830,001</tspan> ( <tspan class="add">1,830,387++</tspan>, <tspan class="del">386--</tspan> )</tspan>
 </text>
 </svg>
