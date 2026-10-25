@@ -12,16 +12,16 @@
   "oid": "39d24f11fbee742ce7845f309af1f1d86b573c6c"
  },
  "jmspringr/jmspringr": {
-  "add": 680,
-  "commits": 13,
-  "del": 148,
-  "oid": "88b70be1766d5ff71e7a143fc330e502c9a8afb5"
+  "add": 694,
+  "commits": 14,
+  "del": 162,
+  "oid": "8e360afc6c46a0195a8d36bcfdb243424492ec44"
  },
  "jmspringr/polaris": {
-  "add": 1811643,
-  "commits": 3,
+  "add": 1858928,
+  "commits": 6,
   "del": 48,
-  "oid": "0c96c9ba3051a0187b48e75a7f3467d11904bcde"
+  "oid": "649e083276688e0eac2a9ceb140fbffe04b3b1ec"
  },
  "jmspringr/valentine-click-page": {
   "add": 263,
